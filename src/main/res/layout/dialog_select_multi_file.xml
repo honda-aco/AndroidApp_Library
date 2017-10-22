@@ -4,8 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="fill_parent"
     android:background="@android:color/black"
-    android:orientation="vertical"
-    android:id="@+id/linearSelectFile">
+    android:orientation="vertical">
 
     <ListView
         android:id="@+id/listApps"
