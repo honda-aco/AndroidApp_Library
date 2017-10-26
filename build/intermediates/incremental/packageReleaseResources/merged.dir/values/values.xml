@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="jp.co.dac.smarti.android"><attr format="string" name="ADSERVER"/><attr format="string" name="SITE"/><attr format="string" name="AREA"/><attr format="string" name="AAMSZ"/><attr format="boolean" name="CPC"/><attr format="string" name="ADDEDPARAMS"/><attr format="integer" name="ROTATION_NUM"/><attr format="integer" name="ROTATION_INTERVAL"/></declare-styleable>
+    <declare-styleable name="mediba.ad.sdk.android.MasAdView"><attr format="integer" name="backgroundColor"/><attr format="integer" name="requestInterval"/><attr format="integer" name="refreshAnimation"/><attr format="integer" name="visibility"/><attr format="boolean" name="testMode"/></declare-styleable>
+    <string name="app_name">Common</string>
+    <string name="value0001">Cancel</string>
+    <string name="value0002">OK</string>
+    <style name="MyCheckBox" parent="Theme.AppCompat.Light">
+        <!-- 枠線 -->
+        <item name="colorControlNormal">#FFFFFF</item>
+        <!-- チェック時の色 -->
+        <item name="colorControlActivated">#FFFFFF</item>
+    </style>
+</resources>
