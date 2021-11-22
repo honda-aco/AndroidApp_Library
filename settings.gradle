@@ -1,1 +1,4 @@
 //include ':common'
+//rootProject.buildFileName = 'build.gradle.kts'
+//rootProject.name = 'common'
+//rootProject.projectDir = new File(settingsDir, 'common')
